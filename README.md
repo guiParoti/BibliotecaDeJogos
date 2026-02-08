@@ -72,8 +72,6 @@ Programação Orientada a Objetos (POO)
 
 DAO (Data Access Object)
 
-🔮 Próximas Atualizações
-
 🚧 Planejamento futuro:
 
 Implementar uma interface gráfica (GUI) utilizando Java Swing
@@ -88,7 +86,7 @@ O desenvolvimento no console foi feito propositalmente para garantir uma base s�
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/guiParoti/BibliotecaDeJogos.git
 
 
 Abra o projeto em uma IDE Java (Eclipse, IntelliJ ou similar).
